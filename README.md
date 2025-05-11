@@ -1,6 +1,9 @@
 # articles_app_assignmment_bharat_nxt
 A Flutter app that fetches and displays a list of articles from a public
-API.
+API. 
+## Demo
+
+https://github.com/user-attachments/assets/b938ab67-1435-4018-b08b-7db90b798ad2
 
 ## Features
 - List of articles
@@ -13,6 +16,8 @@ API.
 - State Management: Cubit (flutter_bloc)
 - HTTP: Dio
 - Persistence: SharedPreferences
+
+
 
 ## Setup Instructions
 1. Clone the repo:
